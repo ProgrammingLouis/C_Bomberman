@@ -1,0 +1,13 @@
+nb_players: 2
+# Player 1
+up: 26
+down: 22
+left: 4
+right: 7
+placeBomb: 20
+# Player 2
+up: 82
+down: 81
+left: 80
+right: 79
+placeBomb: 44
